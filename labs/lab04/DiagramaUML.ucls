@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.1" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="bd.BDNotaFiscal" project="lab04" file="/lab04/src/bd/BDNotaFiscal.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="399" y="95"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="bd.BDProdutoServico" project="lab04" file="/lab04/src/bd/BDProdutoServico.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="629" y="92"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="bd.FacadeBDImposto" project="lab04" file="/lab04/src/bd/FacadeBDImposto.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="207" y="215"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="bd.FacadeBDNotaFiscal" project="lab04" 
+    file="/lab04/src/bd/FacadeBDNotaFiscal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="401" y="214"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="bd.FacadeBDProdutoServico" project="lab04" 
+    file="/lab04/src/bd/FacadeBDProdutoServico.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="624" y="209"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="bd.BDImposto" project="lab04" file="/lab04/src/bd/BDImposto.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="191" y="97"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="imposto.ImpostoEstado" project="lab04" 
+    file="/lab04/src/imposto/ImpostoEstado.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-79" y="519"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="imposto.IData" project="lab04" file="/lab04/src/imposto/IData.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="59" y="519"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="imposto.IDataCidade" project="lab04" file="/lab04/src/imposto/IDataCidade.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-9" y="612"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <enumeration id="10" language="java" name="imposto.CategoriaTributaria" project="lab04" 
+    file="/lab04/src/imposto/CategoriaTributaria.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="186" y="426"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </enumeration>  
+  <class id="11" language="java" name="imposto.IDataEstado" project="lab04" file="/lab04/src/imposto/IDataEstado.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="133" y="612"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="imposto.Imposto" project="lab04" file="/lab04/src/imposto/Imposto.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-52" y="427"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="imposto.ImpostoCidade" project="lab04" 
+    file="/lab04/src/imposto/ImpostoCidade.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="197" y="519"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="imposto.Visitor" project="lab04" file="/lab04/src/imposto/Visitor.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="60" y="429"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="nota_fiscal.ValidadorNotaFiscal" project="lab04" 
+    file="/lab04/src/nota_fiscal/ValidadorNotaFiscal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="674" y="429"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="nota_fiscal.ItemDeVenda" project="lab04" 
+    file="/lab04/src/nota_fiscal/ItemDeVenda.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="924" y="621"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <interface id="17" language="java" name="nota_fiscal.NotaFiscal" project="lab04" 
+    file="/lab04/src/nota_fiscal/NotaFiscal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="883" y="532"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </interface>  
+  <class id="18" language="java" name="nota_fiscal.NFNaoFinalizada" project="lab04" 
+    file="/lab04/src/nota_fiscal/NFNaoFinalizada.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="850" y="429"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="nota_fiscal.NFFinal" project="lab04" file="/lab04/src/nota_fiscal/NFFinal.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1045" y="429"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="nota_fiscal.NFNaoFinalizada.NFBuilder" project="lab04" 
+    file="/lab04/src/nota_fiscal/NFNaoFinalizada.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="727" y="532"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="nota_fiscal.NFFinal.NFFinalBuilder" project="lab04" 
+    file="/lab04/src/nota_fiscal/NFFinal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1027" y="532"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="produtoservico.ProdutoServico" project="lab04" 
+    file="/lab04/src/produtoservico/ProdutoServico.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="418" y="432"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="produtoservico.Produto" project="lab04" 
+    file="/lab04/src/produtoservico/Produto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="349" y="612"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="produtoservico.Servico" project="lab04" 
+    file="/lab04/src/produtoservico/Servico.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="470" y="606"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association id="27">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="28" name="idata"/>      
+      <multiplicity id="29" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="30">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="31" name="idata"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <bendpoint x="775" y="505"/>    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="34" name="_listaItemDeVenda"/>      
+      <multiplicity id="35" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="37" name="child"/>      
+      <multiplicity id="38" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="40">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="41" name="validador"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="44" name="_FacadeBDNotaFiscal"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="46">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="47" name="_categTribut"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="49">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="50" name="bd"/>      
+      <multiplicity id="51" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="52">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="20"/>  
+  </nesting>  
+  <realization id="53">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="17"/>  
+  </realization>  
+  <association id="54">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="55" name="_bd"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="58" name="_bd"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="61" name="_singletonBDImposto"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="63">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="64" name="_SingletonBDProdutoServico"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="66">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="67" name="bdnf"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="69">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="70" name="idata"/>      
+      <multiplicity id="71" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="72">    
+    <bendpoint x="798" y="511"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="73" name="_listaItemDeVenda"/>      
+      <multiplicity id="74" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="75">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="76" name="_bd"/>      
+      <multiplicity id="77" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="78">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="79" name="_produtoServico"/>      
+      <multiplicity id="80" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="81">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="82" name="_FacadeBDProdutoServico"/>      
+      <multiplicity id="83" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="84">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="22"/>  
+  </generalization>  
+  <nesting id="85">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="21"/>  
+  </nesting>  
+  <generalization id="86">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="22"/>  
+  </generalization>  
+  <association id="87">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="88" name="_facadeBDImposto"/>      
+      <multiplicity id="89" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="90">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association id="91">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="92" name="_bancodedados"/>      
+      <multiplicity id="93" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="94">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="95" name="bdimposto"/>      
+      <multiplicity id="96" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="97">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="98" name="_listaItemDeVenda"/>      
+      <multiplicity id="99" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="100">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="101" name="_lista"/>      
+      <multiplicity id="102" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="103">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="17"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="false" package="false" protected="false" private="false" static="false"/>    
+    <operations public="false" package="false" protected="false" private="false" static="false"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
